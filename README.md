@@ -7,13 +7,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gotham&pause=250&color=8EF71F&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Patrick!" alt="Typing SVG" /></a>
 </p>
 
-## Github stats
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=patrickfrom&show_icons=true&theme=dark&hide_border=true"/>
-  </a>
-</p>
-
+## Github Streaks
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com?user=PatrickFrom&theme=dark&hide_border=true"/>
@@ -47,8 +41,25 @@
     <a href="https://steamcommunity.com/id/Pattech/"><img alt="Steam" src="https://img.shields.io/badge/-Steam-00979D?logo=Steam&logoColor=white&color=black"></a>
 </p>
 
+
+## Github Stats
+
+<details>
+<summary>GitHub Profile Stats</summary>
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=patrickfrom&show_icons=true&theme=dark&hide_border=true"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickFrom&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"/>
+  </a>
+</p>
+</details>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://activity-graph.herokuapp.com/graph?username=PatrickFrom&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=PatrickFrom&bg_color=151515&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
   </a>
 </p>
