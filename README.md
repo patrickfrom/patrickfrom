@@ -7,6 +7,19 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gotham&pause=250&color=8EF71F&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Patrick!" alt="Typing SVG" /></a>
 </p>
 
+## Github stats
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=patrickfrom&show_icons=true&theme=dark&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=PatrickFrom&theme=dark&hide_border=true"/>
+  </a>
+</p>
+
 ## Tools and Programming Languages
 
 ### Languages
@@ -32,4 +45,10 @@
 <p>
     <a href="https://www.instagram.com/typical_bauhaus/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-00979D?logo=Instagram&logoColor=white&color=red"></a>
     <a href="https://steamcommunity.com/id/Pattech/"><img alt="Steam" src="https://img.shields.io/badge/-Steam-00979D?logo=Steam&logoColor=white&color=black"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://activity-graph.herokuapp.com/graph?username=PatrickFrom&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+  </a>
 </p>
