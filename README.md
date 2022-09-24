@@ -4,8 +4,10 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gotham&pause=250&color=8EF71F&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Patrick!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gotham&pause=250&color=e45557&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Patrick!" alt="Typing SVG" /></a>
 </p>
+
+---
 
 ## Github Streaks
 <p align="center">
@@ -32,6 +34,7 @@
 ### Frameworks and libraries
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/-dotnet-0078d7?logo=dotnet&logoColor=white"></a>
 <p/>
 
 ## Medias
@@ -62,4 +65,15 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=PatrickFrom&bg_color=151515&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/caa202034f268232c26fac9435f54e15/32/128x128.png"></img>
+<p/>
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=4500&pause=10500&color=A6F2CF&center=true&vCenter=true&width=535&height=90&lines=%E2%80%9CI%E2%80%99m+no+hero.+Never+was%2C+never+will+be.%E2%80%9D" alt="Typing SVG" /></a>
 </p>
