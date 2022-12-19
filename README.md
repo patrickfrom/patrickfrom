@@ -23,6 +23,7 @@
     <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-68217A.svg?logo=cpp2&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white&color=orange"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-00f.svg?logo=JavaScript&logoColor=white&color=orange"></a>
 </p>
 
 ### IDES
@@ -35,6 +36,7 @@
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt=".NET" src="https://img.shields.io/badge/-dotnet-0078d7?logo=dotnet&logoColor=white"></a>
+  <a href="#"><img alt="ReactJS" src="https://img.shields.io/badge/-React-0078d7?logo=React&logoColor=white"></a>
 <p/>
 
 ## Medias
