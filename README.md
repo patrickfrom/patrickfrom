@@ -52,11 +52,6 @@
 
 <details>
 <summary>GitHub Profile Stats</summary>
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=patrickfrom&show_icons=true&theme=dark&hide_border=true"/>
-  </a>
-</p>
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
