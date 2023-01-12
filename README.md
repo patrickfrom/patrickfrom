@@ -54,19 +54,19 @@
 <summary>GitHub Profile Stats</summary>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=patrickfrom&show_icons=true&theme=dark&hide_border=true"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=patrickfrom&show_icons=true&theme=dark&hide_border=true"/>
   </a>
 </p>
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickFrom&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PatrickFrom&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"/>
   </a>
 </p>
 </details>
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=PatrickFrom&bg_color=151515&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PatrickFrom&bg_color=151515&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
   </a>
 </p>
 
