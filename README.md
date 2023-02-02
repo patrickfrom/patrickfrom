@@ -25,6 +25,7 @@
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white&color=orange"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-00f.svg?logo=JavaScript&logoColor=white&color=orange"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-00f.svg?logo=TypeScript&logoColor=white&color=blue"></a>
+    <a href="#"><img alt="LUA" src="https://img.shields.io/badge/LUA-00f.svg?logo=LUA&logoColor=white&color=blue"></a>
 </p>
 
 ### IDES
