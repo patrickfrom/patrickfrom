@@ -9,6 +9,9 @@
 
 ---
 
+## WakaTime
+<a href="https://wakatime.com/@cf0e03eb-cf4b-4380-9547-6a927ed6e751"><img src="https://wakatime.com/badge/user/cf0e03eb-cf4b-4380-9547-6a927ed6e751.svg" alt="Total time coded since Nov 26 2020" /></a>
+
 ## Github Streaks
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
