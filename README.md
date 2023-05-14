@@ -33,6 +33,8 @@
 
 ### IDES
 <p>
+    <a href="#"><img alt="Rider" src="https://img.shields.io/badge/rider%20-fe2857.svg?logo=rider&logoColor=white"></a>
+    <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20-fe2857.svg?logo=intellij-idea&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20-0078d7.svg?logo=visual-studio&logoColor=white"></a>
 </p>
@@ -41,7 +43,7 @@
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt=".NET" src="https://img.shields.io/badge/-dotnet-0078d7?logo=dotnet&logoColor=white"></a>
-  <a href="#"><img alt="ReactJS" src="https://img.shields.io/badge/-React-0078d7?logo=React&logoColor=white"></a>
+    <a href="#"><img alt="ReactJS" src="https://img.shields.io/badge/-React-0078d7?logo=React&logoColor=white"></a>
 <p/>
 
 ## Medias
