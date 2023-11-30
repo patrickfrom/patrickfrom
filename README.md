@@ -44,6 +44,7 @@
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt=".NET" src="https://img.shields.io/badge/-dotnet-0078d7?logo=dotnet&logoColor=white"></a>
     <a href="#"><img alt="ReactJS" src="https://img.shields.io/badge/-React-0078d7?logo=React&logoColor=white"></a>
+    <a href="#"><img alt="Currently studying OpenGL" src="https://img.shields.io/badge/-OpenGL-0078d7?logo=OpenGL&logoColor=white"></a>
 <p/>
 
 ## Medias
