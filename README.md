@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.redd.it/nhcyfixdvlf11.jpg"></img>
+  <img src="https://github.com/patrickfrom/patrickfrom/blob/main/lumbernoob.jpg"></img>
 <p/>
 
 <h3 align="center">
