@@ -79,7 +79,3 @@
   <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/caa202034f268232c26fac9435f54e15/32/128x128.png"></img>
 <p/>
 
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=4500&pause=10500&color=A6F2CF&center=true&vCenter=true&width=535&height=90&lines=%E2%80%9CI%E2%80%99m+no+hero.+Never+was%2C+never+will+be.%E2%80%9D" alt="Typing SVG" /></a>
-</p>
