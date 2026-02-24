@@ -27,29 +27,21 @@
 
 ### Languages
 <p>
-    <a href="#"><img alt="C - Best Language in the world" src="https://custom-icon-badges.demolab.com/badge/-68217A.svg?logo=c&logoColor=white"></a>
+    <a href="#"><img alt="Odin - Best Language in the world" src="https://custom-icon-badges.demolab.com/badge/Odin-68217A.svg?logo=odin"></a>
     <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-68217A.svg?logo=cpp2&logoColor=white"></a>
     <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white&color=orange"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-00f.svg?logo=JavaScript&logoColor=white&color=orange"></a>
-    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-00f.svg?logo=TypeScript&logoColor=white&color=blue"></a>
-    <a href="#"><img alt="LUA" src="https://img.shields.io/badge/LUA-00f.svg?logo=LUA&logoColor=white&color=blue"></a>
 </p>
 
 ### IDES
 <p>
-    <a href="#"><img alt="Rider" src="https://img.shields.io/badge/rider%20-fe2857.svg?logo=rider&logoColor=white"></a>
-    <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20-fe2857.svg?logo=intellij-idea&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20-0078d7.svg?logo=visual-studio&logoColor=white"></a>
+    <a href="#"><img alt="CLion" src="https://img.shields.io/badge/CLion%20-fe2857.svg?logo=clion&logoColor=black"></a>
 </p>
 
 ### Frameworks and libraries
 <p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt=".NET" src="https://img.shields.io/badge/-dotnet-0078d7?logo=dotnet&logoColor=white"></a>
-    <a href="#"><img alt="ReactJS" src="https://img.shields.io/badge/-React-0078d7?logo=React&logoColor=white"></a>
-    <a href="#"><img alt="Currently studying OpenGL" src="https://img.shields.io/badge/-OpenGL-0078d7?logo=OpenGL&logoColor=white"></a>
+    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/-OpenGL-0078d7?logo=OpenGL&logoColor=white"></a>
 <p/>
 
 ## Medias
