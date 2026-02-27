@@ -44,31 +44,6 @@
     <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/-OpenGL-0078d7?logo=OpenGL&logoColor=white"></a>
 <p/>
 
-## Medias
-
-<p>
-    <a href="https://www.instagram.com/typical_bauhaus/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-00979D?logo=Instagram&logoColor=white&color=red"></a>
-    <a href="https://steamcommunity.com/id/Pattech/"><img alt="Steam" src="https://img.shields.io/badge/-Steam-00979D?logo=Steam&logoColor=white&color=black"></a>
-</p>
-
-
-## Github Stats
-
-<details>
-<summary>GitHub Profile Stats</summary>
-
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PatrickFrom&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"/>
-  </a>
-</p>
-</details>
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PatrickFrom&bg_color=151515&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
-  </a>
-</p>
-
 ---
 
 <p align="center">
